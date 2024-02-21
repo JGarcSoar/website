@@ -34,7 +34,7 @@ label{
 
 button{
     margin-top: 15px;
-    background-color: blueviolet;
+    background-color: rgb(43, 144, 226);
     font-size: 1.5em;
     border: none;
     padding: 10px 15px;
@@ -43,7 +43,7 @@ button{
 }
 
 button:hover{
-    background-color: rgb(77, 4, 145);
+    background-color: rgb(4, 70, 145);
 }
 
 #result{
